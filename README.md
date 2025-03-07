@@ -1,7 +1,7 @@
 # Full-Stack Authentication with Azure Entra ID (Formerly Azure AD)
 
 This repository demonstrates how to implement authentication and authorization for a full-stack application using Microsoft Entra ID (formerly Azure AD) with Angular (Frontend) and ASP.NET Core (Backend). The project covers how to securely authenticate users and authorize access to protected resources.
-This repository is used in this [Medium post](https://nodejs.org/).
+This repository is used in this [Medium post](https://medium.com/@jean.leon.v/azure-authentication-with-microsoft-entra-id-in-a-full-stack-application-asp-net-core-angular-42df896660d1).
 
 ## Overview
 
